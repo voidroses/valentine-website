@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "thank you for making me feel lovedd, if you're having hard days, please tell me and i'll always listen to your complaints while hugging you tightlyy! i love you each and everyy day! 💖💝",
+        title: "yay! i'm the luckiest person in the world hihii! thank you for making me feel lovedd kakaa sayangg! if you're having hard days, please tell me and i'll always listen to your complaints while hugging you tightlyy! i hope you realize how amazing you are to mee, i love you each and everyy day! 💖💝",
         message: "big warm hug and a huge kiss!",
         emojis: "🎁💖💝❤️💕"  // These will bounce around
     },
